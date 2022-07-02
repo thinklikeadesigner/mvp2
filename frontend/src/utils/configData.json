@@ -1,0 +1,213 @@
+{
+  "SEGMENTS": [
+    {
+      "textContent": "Advertising & Marketing",
+      "value": "advertising_marketing"
+    },
+    {
+      "textContent": "AgroTech",
+      "value": "agrotech"
+    },
+    {
+      "textContent": "AI",
+      "value": "ai"
+    },
+    {
+      "textContent": "Analytics",
+      "value": "analytics"
+    },
+    {
+      "textContent": "AR & VR",
+      "value": "ar_vr"
+    },
+    {
+      "textContent": "BioTech",
+      "value": "biotech"
+    },
+    {
+      "textContent": "Blockchain",
+      "value": "blockchain"
+    },
+    {
+      "textContent": "CleanTech & Environment",
+      "value": "cleantech_environment"
+    },
+    {
+      "textContent": "Cloud",
+      "value": "cloud"
+    },
+    {
+      "textContent": "Consumer",
+      "value": "consumer"
+    },
+    {
+      "textContent": "Content",
+      "value": "content"
+    },
+    {
+      "textContent": "Cybersecurity",
+      "value": "cybersecurity"
+    },
+    {
+      "textContent": "Data Services",
+      "value": "data_services"
+    },
+    {
+      "textContent": "DeepTech",
+      "value": "deeptech"
+    },
+    {
+      "textContent": "Developer Tools",
+      "value": "developer_tools"
+    },
+    {
+      "textContent": "E-commerce",
+      "value": "e_commerce"
+    },
+    {
+      "textContent": "Education",
+      "value": "education"
+    },
+    {
+      "textContent": "Enterprise",
+      "value": "enterprise"
+    },
+    {
+      "textContent": "Fashion",
+      "value": "fashion"
+    },
+    {
+      "textContent": "FinTech",
+      "value": "fintech"
+    },
+    {
+      "textContent": "Food & Beverage",
+      "value": "food_and_beverage"
+    },
+    {
+      "textContent": "Games",
+      "value": "games"
+    },
+    {
+      "textContent": "GovTech",
+      "value": "govtech"
+    },
+    {
+      "textContent": "Hardware",
+      "value": "hardware"
+    },
+    {
+      "textContent": "HR & Human Capital",
+      "value": "human_capital_hr"
+    },
+    {
+        "textContent": "Impact",
+        "value": "impact"
+      },
+      {
+        "textContent": "Industrial Tech",
+        "value": "industrial_tech"
+      },
+      {
+        "textContent": "IoT",
+        "value": "iot"
+      },
+      {
+        "textContent": "LegalTech",
+        "value": "legaltech"
+      },
+      {
+        "textContent": "Local Services",
+        "value": "local_services"
+      },
+      {
+        "textContent": "Logistics",
+        "value": "logistics"
+      },
+      {
+        "textContent": "Marketplaces",
+        "value": "marketplaces"
+      },
+      {
+        "textContent": "Medicine",
+        "value": "medicine"
+      },
+      {
+        "textContent": "Pharmaceuticals",
+        "value": "pharmaceuticals"
+      },
+      {
+        "textContent": "Real Estate & PropTech",
+        "value": "real_estate_proptech"
+      },
+      {
+        "textContent": "Retail",
+        "value": "retail"
+      },
+      {
+        "textContent": "Robotics",
+        "value": "robotics"
+      },
+      {
+        "textContent": "SaaS",
+        "value": "saas"
+      },
+      {
+        "textContent": "Sales & CRM",
+        "value": "sales_crm"
+      },
+      {
+        "textContent": "Security",
+        "value": "security"
+      },
+      {
+        "textContent": "Semiconductors",
+        "value": "semiconductors"
+      },
+      {
+        "textContent": "Social Networks",
+        "value": "social_networks"
+      },
+      {
+        "textContent": "Space",
+        "value": "space"
+      },
+      {
+        "textContent": "Transportation Technology",
+        "value": "transportationtech"
+      },
+      {
+        "textContent": "Travel",
+        "value": "travel"
+      },
+      {
+        "textContent": "Wellness & Fitness",
+        "value": "wellness_fitness"
+      }],
+  "REGIONS": [
+    {
+      "textContent": "US & Canada",
+      "value": "USC"
+    },
+    {
+      "textContent": "Latin America",
+      "value": "LAA"
+    },
+    {
+      "textContent": "Western Europe",
+      "value": "WEE"
+    },
+    {
+      "textContent": "Eastern Europe & CIS",
+      "value": "EEC"
+    },
+    {
+      "textContent": "Asia, Australia, & Oceania",
+      "value": "AAO"
+    },
+    {
+      "textContent": "Africa",
+      "value": "AFR"
+    }
+  ]
+}
